@@ -42,7 +42,6 @@ public class SqlFun {
 			sb.append("test");
 			break;
 		}
-		
 		s.execute(sb.toString());
 	}
 }
